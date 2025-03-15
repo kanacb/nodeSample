@@ -15,7 +15,7 @@ npm init
 
 npx @feathersjs/cli generate app
 
-puth these dependecies into the package.json
+put these dependecies into the package.json
 
 ```
 "dependencies": {
@@ -44,6 +44,9 @@ puth these dependecies into the package.json
     "nodemon": "^2.0.22"
   }
 ```
+
+npm i
+
 
 ```
 git clone https://github.com/kanacb/nodeSample.git masterNodeSample
