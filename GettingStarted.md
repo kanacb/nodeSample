@@ -17,6 +17,7 @@ npx @feathersjs/cli generate app
 
 puth these dependecies into the package.json
 
+```
 "dependencies": {
     "@feathersjs/authentication": "^4.5.18",
     "@feathersjs/authentication-local": "^4.5.18",
@@ -42,3 +43,8 @@ puth these dependecies into the package.json
     "mocha": "^10.8.2",
     "nodemon": "^2.0.22"
   }
+```
+
+```
+git clone https://github.com/kanacb/nodeSample.git masterNodeSample
+```
